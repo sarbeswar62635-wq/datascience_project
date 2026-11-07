@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sarbe/Desktop/Youtub_tutorial/mlruns/0/9738f80e61ad4d34bd05f3dacb3ff595/artifacts
+end_time: 1794075258581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9738f80e61ad4d34bd05f3dacb3ff595
+run_name: bold-crab-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794075258455
+status: 4
+tags: []
+user_id: root

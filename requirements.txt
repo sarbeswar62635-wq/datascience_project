@@ -10,5 +10,5 @@ xgboost
 matplotlib
 dill
 Flask
-mlflow==2.2.2
+mlflow
 # -e .

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sarbe/Desktop/Youtub_tutorial/mlruns/0/models/m-6407771e18c14663a90fe0e0d995613f/artifacts
+creation_timestamp: 1794077672637
+experiment_id: '0'
+last_updated_timestamp: 1794077685945
+model_id: m-6407771e18c14663a90fe0e0d995613f
+model_type: null
+name: model
+source_run_id: 1f2806bcb24c447d843c75816b16c235
+status: 2
+status_message: null

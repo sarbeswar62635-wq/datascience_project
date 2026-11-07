@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/sarbe/Desktop/Youtub_tutorial/mlruns/0/models/m-6407771e18c14663a90fe0e0d995613f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-6407771e18c14663a90fe0e0d995613f
+model_size_bytes: 416373
+model_uuid: m-6407771e18c14663a90fe0e0d995613f
+prompts: null
+run_id: 1f2806bcb24c447d843c75816b16c235
+utc_time_created: '2026-11-07 18:54:32.692154'
